@@ -1,19 +1,4 @@
-<!-- David Bucur -->
-
-<!-- simulare joc blackjack
-un buton care mai da carti
-suma cartilor pe care le primesc sa nu depaseasca 21
-daca e sub 21 ma pot opri -->
-
-<!-- un singur pachet -->
-
-<!-- carti cu valori 1-11 (as = 1 sau 11)
-valet-popa = valoarea 10
-cartile 1-10 =  -->
-
-<!-- o functie care amesteca valorile unui vector -->
-
-
+<!DOCTYPE html>
 <html>
 
 <head>
